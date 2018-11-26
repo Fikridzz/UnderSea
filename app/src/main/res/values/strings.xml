@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Under Sea</string>
+
+    <string-array name="nama_undersea">
+        <item>Kepulauan Raja Ampat.</item>
+        <item>Taman Laut Kepulauan Togean.</item>
+        <item>Taman Nasional Bunaken.</item>
+        <item>Taman Laut Takabonerate.</item>
+        <item>Taman Laut Kepulauan Derawan.</item>
+        <item>Kepulauan Seribu.</item>
+        <item>Tulamben, Bali.</item>
+        <item>Taman Laut Banda.</item>
+        <item>Taman Laut Wakatobi.</item>
+        <item>Taman Laut Karimun Jawa.</item>
+
+    </string-array>
+
+    <string-array name="detail_underwater">
+        <item>Terletak di Papua Barat, Raja Ampat adalah sebuah kepulauan yang jauh, yang memakan waktu 6-7 jam dari Jakarta. Tapi jangan khawatir guys, perjalanan yang jauh dan sulit ditempuh tersebut akan terbayar dengan keindahan yang nantinya kamu dapatkan begitu sampai di sana. Birunya laut, pasir pantai yang putih, hingga keindahan bawah lautnya yang tak bisa diungkapkan dengan kata-kata akan membuatmu terpesona. Banyak juga lho wisatawan mancanegara yang datang jauh-jauh untuk mengunjungi Raja Ampat ini. </item>
+        <item>Indah dan seperti nirwana kecil yang ada di Indonesia adalah kesan pertama yang nantinya akan kamu dapatkan begitu mengunjungi taman laut yang satu ini. Kepulauan Togean sendiri tercatat dalam wilayah Coral Triangle region Indonesia–Filipina. Coral triangle adalah wilayah segitiga perairan laut tropis yang memiliki lebih dari 500 spesies gugusan terumbu karang. Wow! Tentunya kamu bisa membayangkan indahnya terumbu karang di sana, kan?  </item>
+        <item>Taman laut yang satu ini pastinya kamu sudah familiar dan sering terdengar di telinga. Yap! Bunaken adalah salah satu situs wisata bawah air terbaik di Indonesia dan merupakan taman nasional yang terdaftar di UNESCO, sehingga keindahan bawah laut di Bunaken selalu dijaga kelestariannya. Ingin ke sana? Kamu tinggal mengunjungi taman laut yang terletak di Sulawesi Utara ini, yang berjarak di 75 mil dari pantai Manado.</item>
+        <item>Masih dari Sulawesi, kali ini kamu bisa meluncur ke Sulawesi Selatan, dan mengunjungi salah satu taman laut yang indahnya luar biasa ini. Namanya Taman Laut Takabonerate. Taman laut ini terletak di Sulawesi Selatan, 300 km dari Kota Makassar. Di Taman Laut Takabonerate ini selain menikmati keindahan pantainya, kamu juga bisa diving atau snorkeling dan ketemu sama makhluk laut seperti ikan nudi, cuttlefish, barracuda, pari, bump head fish di kedalaman satu meter. Keren, kan? </item>
+        <item>Satu lagi yang cantiknya diakui dunia adalah Taman Laut Kepulauan Derawan. Taman Laut Kepulauan Derawan ini memiliki 28 dive spot dan menempati urutan ketiga teratas di dunia sebagai tempat tujuan menyelam bertaraf internasional. Wow! Kamu juga bisa menikmati indahnya berbagai terumbu karang dan 832 spesies ikan karang di sana, lho. </item>
+        <item>Kamu orang yang sibuk dan nggak bisa liburan jauh-jauh? Tenang, kamu bisa mengunjungi Kepulauan Seribu yang tak kalah indahnya dengan taman-taman laut yang sudah disebutkan di atas. Kepulauan Seribu merupakan tujuan wisata bawah air yang terletak 45 km dari Kota Jakarta. Banyak sekali pulau-pulau kecil di kepulauan ini yang masih alami dan dikunjungi wisatawan mancanegara, lho. </item>
+        <item>Nggak melulu mengunjungi Denpasar, kamu bisa mengunjungi Tulamben yang terletak 82 km dari Denpasar. Satu hal yang unik kalau kamu mengunjungi Tulamben ini, kamu akan bisa menikmati wisata bawah lautnya dan menemukan kapal milik Amerika Serikat yang telah karam pada Perang Dunia II yang sekarang menjadi tempat tinggal bagi biota laut.</item>
+        <item>Taman Laut Banda terletak di Kabupaten Maluku Tengah, di gugusan Pulau Neira, Pulau Gunung Api, Pulau Sjahrir, dan Pulau Hatta. Taman Laut Banda yang merupakan salah satu taman laut terindah di dunia yang memiliki 310 jenis karang pembentuk terumbu, sekitar 871 spesies ikan, serta populasi hiu dan kerapu, termasuk beberapa jenis ikan dan kerang purba yang disuakakan seperti ikan napoleon. Karena keindahannya, pada tahun 2006 Taman Laut Banda dipilih menjadi Kawasan Warisan Dunia untuk surga bawah laut Indonesia. Keren abis ya, guys! </item>
+        <item>Ini nih yang jadi primadona. Nama Wakatobi didapat dari empat buah pulau terbesar di kawasan tersebut yaitu Pulau Wangi-Wangi, Kalidupa, Tomia, dan Binongko. Wakatobi adalah salah satu Taman Nasional Indonesia yang terletak di Sulawesi Tenggara yang memiliki keindahan dan pesona alam tiada duanya. Ketika mengunjungi Wakatobi, kamu akan disuguhkan surga bawah laut yang tiada duanya, yang bikin kamu akan terus ingin kembali ke sana. </item>
+        <item>Kalau kamu ingin mengunjungi Karimun Jawa, kamu bisa mengaksesnya dari Pelabuhan Kartini, Jepara, atau Pelabuhan Tanjungmas, Semarang. Taman Nasional Karimun Jawa merupakan gugusan kepulauan yang terdiri dari 22 pulau. Salah satu daya tarik Taman Laut Karimun Jawa adalah karang merah dan karang hitamnya yang sudah tergolong langka. Tunggu apa lagi, guys? Yuk, ke sana! </item>
+
+    </string-array>
+</resources>
